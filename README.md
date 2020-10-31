@@ -4,7 +4,7 @@ A neat dark syntax theme for Atom, part of Moth's [FONC YOU](https://germanponte
 
 Moth Dark is the vampire's choice for syntax highlighting, with its moonless night background and its blood & fire color accents.
 
-![Moth Dark Screenshot](moth_dark_ss01.png)
+![Moth Dark Screenshot](https://user-images.githubusercontent.com/73740741/97788965-2a74d200-1bbd-11eb-8685-03f95b17e7a2.png)
 `Font: Inconsolata / UI: One Dark / CSS colors: highlight-colors by brumm (not part of the theme)`
 
 Optimal for dusky, medium-lit environments.
